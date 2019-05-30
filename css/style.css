@@ -31,6 +31,9 @@ body {
 #HOME {
 	color: darkorange;
 }
+a:hover {
+	color:orange;
+}
 .menu .logo img{
 	height: 70px;
 }
@@ -76,7 +79,7 @@ body {
 
 .testtext1 {
 	color: white;
-	opacity: 0.7;
+	opacity: 0.9;
 	background: rgba(105, 105, 105, 0.5);
 }
 .text3 {
@@ -89,14 +92,14 @@ body {
 .text4-1 {
 	color:white;
 	background: gray;
-	opacity: 0.7;
+	opacity: 0.9;
 	width: 500px;
 	margin:0 auto;
 }
 .text4-2 {
 	color:white;
 	background: gray;
-	opacity: 0.7;
+	opacity: 0.6;
 	width: 700px;
 	margin:0 auto;
 }
@@ -179,3 +182,21 @@ body {
     }
 }
 ---
+.footerrr {
+	background: brown;
+	overflow: hidden;
+	padding: 20px 20px 10px 20px;
+}
+.kor {
+	margin: auto 10px;
+	color:white; 
+}
+.ddd {
+	display: flex;
+}
+.phone {
+	height: 20px;
+}
+.mail {
+	height: 20px;
+}

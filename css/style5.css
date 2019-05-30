@@ -20,6 +20,7 @@ body {
 	font-family: Boogaloo, cursive;
 	color: white;
 	font-weight: 600;
+
 }
 .menu li {
 	margin-top: 18px;
@@ -27,7 +28,7 @@ body {
 	margin-left: 30px;
 	display: inline-block;
 }
-#gallery {
+#soc {
 	color: darkorange;
 }
 a:hover {
@@ -58,10 +59,35 @@ a:hover {
 	text-align: center;
 	line-height: 50px;
 }
-.margin {
-	margin: 25px;
-	width: 500px;
-	border: 5px solid;
+.header {
+	position: relative;
+}
+----
+.box{
+    background: #eee;
+}
+span{
+    font-size:15px;
+}
+a{
+  color: #0062cc;
+}
+.box{
+    padding:60px 0px;
+}
+
+.box-part{
+    background:#FFF;
+    border-radius:0;
+    padding:60px 10px;
+    margin:30px 0px;
+}
+.text{
+    margin:20px 0px;
+}
+
+.fa{
+     color:#4183D7;
 }
 .footer {
 	background: brown;
